@@ -5,7 +5,8 @@
 <h3> 👨🏻•💻 About Me </h3>
 
 
-
+- 📫 &nbsp; How to reach me: 23moskvin@gmail.com
+- - 🌱 I’m currently learning ReactJS
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 
 - 🎓 &nbsp; Studying Computer Science and Engineering at IIIT Vadodara and coding stuffs.
@@ -65,6 +66,11 @@
 
 
 <h3> 🤝🏻 Connect with Me </h3>
+### Get in touch 📧
+
+- [Facebook](https://www.facebook.com/pasha.moskvin.3/)
+- [LinkedIn](https://www.linkedin.com/in/pavlo-moskvin-964687202/)
+- [Gmail](mailto:23moskvin@gmail.com)
 
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:23moskvin@gmail.com)](mailto:23moskvin@gmail.com)
