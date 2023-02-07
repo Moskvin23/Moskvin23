@@ -1,15 +1,14 @@
-### Hi there 👋<h2> I'm Pasha</h2>
+### Hi there 👋<h2> I'm Pavlo</h2>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 - 📫 &nbsp; How to reach me: 23moskvin@gmail.com
-- 🌱 &nbsp; I’m currently learning ReactJS
-- 🤔 &nbsp; I'm Developer from Lviv 
+- 🤔 &nbsp; I'm React Developer from Lviv 
 
 <h3>🛠 Tech Stack</h3>
 
 
-- 💻 &nbsp; JavaScript | ReactJs | React Native | NodeJs | Figma | HTML | CSS
+- 💻 &nbsp; JavaScript | ReactJs | Redux | Git | REST API | NodeJs | Figma | HTML | CSS
 
 
 
